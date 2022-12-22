@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
+# import plotly.express as px
 from shapely.geometry import Point, Polygon
 import folium
 from streamlit_folium import st_folium
